@@ -1,1 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOU-MING-6)](https://github.com/anuraghazra/github-readme-stats)
+# 👋你好
+- 🍀这里是 YOU MING 柚明 的 GitHub 主页
+- 
+# 💻关于我
+- ✍️一个不知名创作者
+- ⚙️「Youming 工作室」室长
+- 🍀欢迎来 [我的主页](home.youming.dns.army)
